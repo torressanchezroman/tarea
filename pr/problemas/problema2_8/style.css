@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d777f7;
+  padding: 20px;
+}
+.contenedor {
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 300px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+label, input, button {
+  display: block;
+  margin: 10px 0;
+  width: 100%;
+}
